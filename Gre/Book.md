@@ -39,7 +39,7 @@ ponderable, ponderous, preponderant;
 
 # 走 跑 跳
 ## L6
-aacede, accessory, intercessor, predecessor, recessive,  secede;
+acede, accessory, intercessor, predecessor, recessive,  secede;
 digress, transgress, retrograde;  
 amble, ramble, perambulate, aberrant, errant;
 contravene, adventitious, convention, inventory;
@@ -47,5 +47,24 @@ cursory, discursive;
 desultory, exult;
 resilience, salience;
 incessant;
+
+# 坐 站 躺
+## L7
+assiduous, subside, subsidiary, supersede, sedate, sedulous;  
+ecstasy, stasis, apostasy, stature, instate, understate;  
+incubate, incumbent, recumbent, succumb,   
+
+# 倒 流
+## L8
+effusive, profuse, suffuse;  
+affluent, confluence, effluvium, mellifluous;  
+
+# 切分 部分
+## L9
+concise, incisive, dichotomy, epitomize, dissect;  
+infraction, frail;  
+jeopardy;  
+rescind, debris, sunder, retrench, trenchant;  
+
 
 
