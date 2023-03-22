@@ -66,5 +66,21 @@ infraction, frail;
 jeopardy;  
 rescind, debris, sunder, retrench, trenchant;  
 
+# 感情
+## L10
+consensus, assent, insentient, sentinel;    
+trespass, encompass;   
 
+# 弯 扭 折
+## L11
+compliant, compliment, pleat, supple;    
+duplicity, explicate, explicit, replicate, supplicate;   
+extort, retort;  
+sinuous, sinew;    
+
+# 转
+## L12
+conversant;  
+inadvertent, subvert;   
+convoluted, voluable, revolt;  
 
