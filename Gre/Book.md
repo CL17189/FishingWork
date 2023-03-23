@@ -84,3 +84,21 @@ conversant;
 inadvertent, subvert;   
 convoluted, voluable, revolt;  
 
+# 看
+## L13
+conspicuous, despicable, despise, perspicacious, retropective,specious, spectrum;  
+provisional, privisory, invidious, provident, providential;  
+panaromic, scruple;  
+
+# 使 引导
+## L14
+coagulate, cogent, demagogue, pedagogue, agog;  
+conducive, inducement, seduce, ductile;  
+affection, affectation, surfeit, forfeit;  
+soporific, specific;   
+
+# 发送 给予
+## L15
+submissive, surmise, commit, intermittent, unremitting, compromise;   
+condone, anecdote; 
+
