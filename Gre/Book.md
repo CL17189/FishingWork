@@ -102,3 +102,23 @@ soporific, specific;
 submissive, surmise, commit, intermittent, unremitting, compromise;   
 condone, anecdote; 
 
+# 写
+## L16
+nondescript, proscribe, prescription, scribble;    
+consign, resign;    
+
+# 身体部位
+## L17
+precipitate, precipitious, precipice, precipitation;    
+expedite;  
+backhanded, hamhanded, offhand;    
+barefaced, efface, facetious, facile, hearken;   
+
+# 尖 刺 小
+## L18
+acerbic, acme, acrid, acrimonious, exacerbate, acumen, acute;   
+menace, menial, minatory, mince;   
+compunction, punctilious, pungent;   
+instigate, stiff, stifle, stigma;  
+oxymoron, paroxysm, paragon;   
+
