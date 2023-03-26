@@ -122,3 +122,21 @@ compunction, punctilious, pungent;
 instigate, stiff, stifle, stigma;  
 oxymoron, paroxysm, paragon;   
 
+# 高低 轻重 长短
+## L19
+aggravate;  
+abridge;  
+
+
+# 松开 拉紧
+## L20
+absolve, dissolute, resolute;  
+constringe;  
+
+
+# 同
+## L21
+iniquity;  
+alienate, alibi;  
+abnegate, renege
+
