@@ -140,3 +140,29 @@ iniquity;
 alienate, alibi;  
 abnegate, renege
 
+
+# 触摸 边界
+## L22
+cantagious;  
+affinity;
+
+# 大自然
+## L23
+unanimous;  
+adumbrate, umbrage;  
+inundate;  
+pellucid;  
+misanthropic, philanthropic;  
+effulgent, refulgent;  
+
+# 正
+## L24
+enamored;  
+bravado, bravura;  
+boon, bonhomie;  
+candor, incandescent;  
+effervesce, fervid, perfervid;  
+expiate, impious, pious;  
+resurect;  
+diffident, fidelity, perfidy;  
+
