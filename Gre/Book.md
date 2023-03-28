@@ -166,3 +166,28 @@ expiate, impious, pious;
 resurect;  
 diffident, fidelity, perfidy;  
 
+
+# 负
+## L25
+abysmal;  
+culpable;  
+contumacious, tumult;  
+pernicious;  
+turbid, turbulent;  
+extricate, treacherous;  
+timorous, imtimate;  
+indemnity;  
+
+# J
+## L26
+abject, conjecture, deject, jettison;  
+jocular, jocund, jovial;  
+abjure, conjure, adjunct, judicious, adjudicate;  
+
+# Y
+## L27
+evacuate, vacuous, evanescent;  
+ambivalent, convalesce, unavailing, valiant;  
+veracious, veritable;  
+volition, malevolent;  
+
