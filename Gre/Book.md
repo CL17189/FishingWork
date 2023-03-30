@@ -191,3 +191,20 @@ ambivalent, convalesce, unavailing, valiant;
 veracious, veritable;  
 volition, malevolent;  
 
+# 动作
+## L28
+recidivate, decadent;  
+condescending, transcend;  
+insurgent, resurgence, incite, resuscitate, solicitous;  
+
+## L29
+allude, conllude, ludicrous;  
+peripgeral, aphorism, belliderent;  
+importune, rapport;  
+perquisite;  
+
+## L30
+engender, ingenious, ingenuous, genial;  
+compendium, impending, propensity, suspend, pensive;  
+complementary, replete, plebeian;  
+probity, reprobate, proofread;  
