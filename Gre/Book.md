@@ -208,3 +208,26 @@ engender, ingenious, ingenuous, genial;
 compendium, impending, propensity, suspend, pensive;  
 complementary, replete, plebeian;  
 probity, reprobate, proofread;  
+
+## L31
+obsequious, prosection, persecution, servile, subservient;  
+implacable;  
+ingratiating, gratify, gratuitous;  
+eclectic, predilection;  
+abscond, ensconce, recondite;  
+
+## L32
+acquiesce;  
+arrest;  
+abate, offbeat;  
+peruse;  
+belabor;  
+
+## L33
+mordant, remorse;  
+obliging;  
+imperative;  
+domicile,  domineer;  
+preclude, recluse;  
+dolorous, condole, indolent;  
+solace, console;  
