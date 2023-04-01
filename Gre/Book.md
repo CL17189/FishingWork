@@ -231,3 +231,24 @@ domicile,  domineer;
 preclude, recluse;  
 dolorous, condole, indolent;  
 solace, console;  
+
+
+## L34
+pall, palliate, pallid;  
+sacrosant, execrate, sanction, sanctify, sanctimonious, sanctuary;  
+patrician, patronize;  
+endemic;  
+grandeur, grandiose;  
+conspire;  
+
+## L35
+winsome, fulsome, offish, windy;  
+airtight, careworn;  
+ironclad, ironfisted;  
+downplay, off-key, windfall, wiretap;  
+hidebound, forebode, foreground;  
+
+## L36 Animal
+ebullient, impecunious, bellwether, jaded, coltish, restive, abet;  
+serpentine, gossamer, gull, coquette, coop, callow, fledgling, molt;  
+sloth, moth-eaten, nitpick;  
