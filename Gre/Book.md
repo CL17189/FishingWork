@@ -251,4 +251,17 @@ hidebound, forebode, foreground;
 ## L36 Animal
 ebullient, impecunious, bellwether, jaded, coltish, restive, abet;  
 serpentine, gossamer, gull, coquette, coop, callow, fledgling, molt;  
-sloth, moth-eaten, nitpick;  
+sloth, moth-eaten, nitpick;
+
+## L37
+abstemious, boisterous, conundrum, eleemosynary, enfranchise, meretricious;  
+proselytize, pulchritude;  
+humdrum, hubris, idiosyncrasy, maelstrom, purloin;  
+decrepit, indigent, reticent, precarious;  
+drivel, fluky, sermon, strident, topsy-turvy, willy-nilly;  
+abash, abstruse, congeal, excrete, forsake, inane, perilous, perish;  
+arduous, amalgamate, barren, largesse,maculate, meager, puerile;  
+puissance, revelry, snobbish,striate, serried, trifle;  
+filibuster, morbid, shun, soothe;  
+lacerate, morose, respite, solemnity, insolent, taciturn;  
+cavil, debonair, flit, hoodwink, pilfer,turgid;
