@@ -265,3 +265,16 @@ puissance, revelry, snobbish,striate, serried, trifle;
 filibuster, morbid, shun, soothe;  
 lacerate, morose, respite, solemnity, insolent, taciturn;  
 cavil, debonair, flit, hoodwink, pilfer,turgid;
+
+
+## L38
+immaterial, immemorial, malicious;  
+discharge, infirm, reassure, infuriate, affix, bifurcate;  
+assauge, amorphous, metamorphose, beholden, exorbitant, requite;  
+erudite, obliterate, decorum, insouciant;  
+enervate, effrontery, exalt, extol, expurgate;  
+embolden, ennoble, adamant, awash;  
+denigrate, denude, deprecate, deracinate, irradicable;  
+annotate, notoriety, indelible, deleterious, retouch;  
+abhor, belie, untoward, remonstrance;  
+pitiless, sidestep,monoplize, melodramatic;  
