@@ -278,3 +278,15 @@ denigrate, denude, deprecate, deracinate, irradicable;
 annotate, notoriety, indelible, deleterious, retouch;  
 abhor, belie, untoward, remonstrance;  
 pitiless, sidestep,monoplize, melodramatic;  
+
+
+## L39
+natty, clarion, snare, flag, flaccid, mirage, distal, bliss,strategem;  
+bombast, worship, ratiocination, maquerate, matriculate;  
+knit, idolatrize, fanatic, inimical, cornucopia, dearth;  
+complaisance, obeisance, glutinous, chorale;  
+fabricate, proprietart, rampant;  
+antiquated, rupture;  
+aver, awe, bash, carp, coy ,crux, dent;  
+glib, lax, pen;  
+rash, raze, sate, wry;  
