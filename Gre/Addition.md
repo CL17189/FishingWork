@@ -16,7 +16,7 @@
 
 
 16-35:  
-_   **Relish**: enjoy greatly
+-   **Relish**: enjoy greatly
 -   **Valorize**: establish price by government
 -   **Usher**: conduct or escort
 -   **Sycophantic**: obsequious behavior for advantage
