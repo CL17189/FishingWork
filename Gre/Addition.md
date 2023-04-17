@@ -77,3 +77,15 @@
 
 
 
+### 63
+-   Stalwart (a loyal and reliable supporter, typically one who is brave and resolute).
+-   Pretentious (attempting to impress by affecting greater importance or merit than is actually possessed).
+-   Whimsical (playfully quaint or fanciful, especially in an appealing and amusing way).
+-   Unqualified (not competent or sufficiently knowledgeable to do something).
+-   Intentional (done on purpose; deliberate).
+-   Emendation (a correction or change made to a text).
+-   Cinch (an extremely easy task).
+-   Glut=Surfeit (an excessive supply or amount of something that results in overindulgence or disgust).
+-   With no bearing (having no relevance or connection to a particular matter or situation).
+
+
