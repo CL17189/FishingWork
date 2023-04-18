@@ -89,3 +89,8 @@
 -   With no bearing (having no relevance or connection to a particular matter or situation).
 
 
+Overblown: Excessively inflated or pretentious 1.
+Escapist:
+Gripping:
+Ebbe:
+Abeyant:
