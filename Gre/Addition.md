@@ -93,4 +93,12 @@ Overblown: Excessively inflated or pretentious 1.
 Escapist:
 Gripping:
 Ebbe:
-Abeyant:
+Abeyant:  
+  
+  
+  
+Plastic (a synthetic material made from organic polymers)  
+Flagrant crassmess (an obvious and offensive lack of care or sensitivity)  
+Absolute discretion (complete freedom to act or decide as one wishes)  
+Bolster (to support or strengthen)  
+Laconic=taciturn (using very few words to express oneself)  
