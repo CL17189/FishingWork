@@ -1,4 +1,4 @@
-1-15:  
+### 1-15:  
 -   Abound (exist in large numbers): To exist in large numbers or amounts.  
 -   Proliferate (increase rapidly): To increase rapidly in numbers or amount.   
 -   Serenity (calmness): The state of being calm and peaceful.  
@@ -15,7 +15,7 @@
 -   Tabloid: a kind of newspaper  
 
 
-16-35:  
+### 16-35:  
 -   **Relish**: enjoy greatly
 -   **Valorize**: establish price by government
 -   **Usher**: conduct or escort
@@ -75,6 +75,42 @@
 -   at bay: keep away 
 -   Opulence : great wealth or luxuriousness
 
+### 36-50
+entrench (establish something firmly and securely)  
+preachy (giving moral advice in a tedious or pompous way)  
+fiery (showing strong emotion or passion)  
+promise (a declaration or assurance that one will do something)  
+quip (a witty remark)  
+drollness (amusing in an odd way)  
+imprudence (lack of caution or good judgement)  
+restorative=tonic (something that helps restore health or vigor)  
+unflinching (not showing fear or hesitation in the face of danger or difficulty)  
+diverting (entertaining or amusing)  
+caterwauling (a harsh and unpleasant noise)  
+anticipate (expect or predict)  
+prefigure (be an early indication or foreshadowing of something)  
+flout (openly disregard a rule or convention)   
+resonate (evoke a strong feeling or response)  
+rehash (present something again without significant change or improvement)  
+duplicate (make an exact copy of something)  
+duplicity (deceitfulness; double-dealing)  
+malfeasance (wrongdoing, especially by a public official)  
+paltry (insignificantly small or meager)  
+derision (ridicule or mockery)  
+profitmonger (someone who is excessively focused on making money)  
+self-aggrandizing (seeking to increase one's own power or importance)  
+self-perpetuating (maintaining or perpetuating oneself or itself without external influence)   
+noisome (foul-smelling or unpleasant)  
+experimental (involving or based on experiments)  
+unbounded (having no limits or boundaries)  
+furtive (done in a secretive or stealthy way)  
+disparate (essentially different or distinct)  
+disparage (belittle or criticize)  
+somnolent (feeling sleepy or drowsy)  
+square with (be consistent with or conform to)  
+sanguine (optimistic or positive, especially in a difficult situation)  
+coincide (occur at the same time or in the same place)  
+  
 
 
 ### 63
