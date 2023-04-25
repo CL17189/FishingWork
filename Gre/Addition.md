@@ -142,18 +142,61 @@ Laconic=taciturn (using very few words to express oneself)
 
   
 ### 66
-Uneasy: causing or feeling anxiety; troubled or uncomfortable
-Spur: a thing that prompts or encourages someone; an incentive
-Sophist: a person who reasons with clever but false arguments
-Quibbler: a person who raises trivial objections
-Pedant: a person who is excessively concerned with minor details and rules or with displaying academic learning
-Savior: a person who saves someone or something (especially a country or cause) from danger, and who is regarded with the veneration of a religious figure
-Ritualize: make into or treat as a ritual
-Figures*: I’m not sure what you mean by “figures” here. Could you please provide more context?
-Hail: (of precipitation) fall as small pellets of ice
-Acclaim: praise enthusiastically and publicly
-Wayward: difficult to control or predict because of unusual or perverse behavior
-Impolitic: unwise; imprudent
-Crisp lucidity: clearness in thought or expression; sharpness and clarity
-Prune: cut away dead or overgrown branches or stems, especially to increase fruitfulness and growth
+Uneasy: causing or feeling anxiety; troubled or uncomfortable  
+Spur: a thing that prompts or encourages someone; an incentive  
+Sophist: a person who reasons with clever but false arguments  
+Quibbler: a person who raises trivial objections  
+Pedant: a person who is excessively concerned with minor details and rules or with displaying academic learning  
+Savior: a person who saves someone or something (especially a country or cause) from danger, and who is regarded with the veneration of a religious figure  
+Ritualize: make into or treat as a ritual  
+Figures*: I’m not sure what you mean by “figures” here. Could you please provide more context?  
+Acclaim: praise enthusiastically and publicly  
+Wayward: difficult to control or predict because of unusual or perverse behavior  
+Impolitic: unwise; imprudent  
+Crisp lucidity: clearness in thought or expression; sharpness and clarity  
+Prune: cut away dead or overgrown branches or stems, especially to increase fruitfulness and growth  
+
+
+### 67-70 
+Unrivaled: having no equal or competition; incomparable.  
+Demur: raise doubts or objections or show reluctance.  
+Bias: a tendency to believe that some people, ideas, etc., are better than others that usually results in treating some people unfairly.  
+Untether: release or free from a tether.  
+Exact: not approximated in any way; precise.  
+Exasperation: a feeling of intense irritation or annoyance.  
+Conceal: keep from sight; hide.  
+Outdo: be better than; exceed in performance or achievement.  
+Dour: relentlessly severe, stern, or gloomy in manner or appearance.  
+Astringent: causing the contraction of skin cells and other body tissues; styptic.  
+Flippant: not showing a serious or respectful attitude.  
+Cavalier: showing a lack of proper concern; offhand.Unrivaled: having no equal or competition; incomparable.  
+Demur: raise doubts or objections or show reluctance.  
+Bias: a tendency to believe that some people, ideas, etc., are better than others that usually results in treating some people unfairly.  
+Untether: release or free from a tether.  
+Exact: not approximated in any way; precise.   
+Exasperation: a feeling of intense irritation or annoyance.  
+Conceal: keep from sight; hide.  
+Outdo: be better than; exceed in performance or achievement.  
+Dour: relentlessly severe, stern, or gloomy in manner or appearance.  
+Astringent: causing the contraction of skin cells and other body tissues; styptic.  
+Flippant: not showing a serious or respectful attitude.  
+Cavalier: showing a lack of proper concern; offhand.  
+Adherent: someone who supports a particular party, person, or set of ideas.  
+Divulge: make known (private or sensitive information).  
+Commiserate: express or feel sympathy or pity; sympathize.  
+Grumble: complain or protest about something in a bad-tempered but typically muted way.  
+Gloat: contemplate or dwell on one’s own success or another’s misfortune with smugness or malignant pleasure.  
+Inattentive: not paying attention to something; careless.  
+Garrulous: excessively talkative, especially on trivial matters.  
+Fluster: make (someone) agitated or confused.  
+Hindsight: understanding of a situation or event only after it has happened or developed.  
+Adherent: someone who supports a particular party, person, or set of ideas.   
+Divulge: make known (private or sensitive information).  
+Commiserate: express or feel sympathy or pity; sympathize.  
+Grumble: complain or protest about something in a bad-tempered but typically muted way.  
+Gloat: contemplate or dwell on one’s own success or another’s misfortune with smugness or malignant pleasure.  
+Inattentive: not paying attention to something; careless.  
+Garrulous: excessively talkative, especially on trivial matters.  
+Fluster: make (someone) agitated or confused.  
+Hindsight: understanding of a situation or event only after it has happened or developed.  
 
