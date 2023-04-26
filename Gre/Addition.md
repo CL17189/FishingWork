@@ -198,5 +198,28 @@ Gloat: contemplate or dwell on one’s own success or another’s misfortune wit
 Inattentive: not paying attention to something; careless.  
 Garrulous: excessively talkative, especially on trivial matters.  
 Fluster: make (someone) agitated or confused.  
-Hindsight: understanding of a situation or event only after it has happened or developed.  
+Hindsight: understanding of a situation or event only after it has happened or developed.    
 
+### 71-72
+Demarcation: The action of fixing the boundary or limits of something.  
+Episode: An event or a group of events occurring as part of a larger sequence; an incident or period considered in isolation.  
+Wistful: Having or showing a feeling of vague or regretful longing.  
+Impotence: Inability to take effective action; helplessness.  
+Covetous: Having or showing a great desire to possess something, typically something belonging to someone else.  
+Melancholic: Feeling or expressing pensive sadness.  
+Wearisome: Causing one to feel tired or bored.  
+Salacious: Treating sexual matters in an indecent way and typically conveying undue interest in or enjoyment of the subject.  
+Aghast: Filled with horror or shock.  
+Proficient: Competent or skilled in doing or using something.  
+Seditious: Inciting or causing people to rebel against the authority of a state or monarch.  
+Maudlin: Self-pityingly or tearfully sentimental, often through drunkenness.  
+Fawn: Display exaggerated flattery or affection; grovel.  
+Sycophantic: Behaving or done in an obsequious way in order to gain advantage; flattering.  
+Confound*: Cause surprise or confusion in (someone), especially by acting against their expectations.  
+Puncture: A small hole made by a sharp object; a small wound caused by a pointed object such as a nail or needle.  
+Rationale: A set of reasons or a logical basis for a course of action or particular belief.  
+Opprobrium: Harsh criticism or censure; public disgrace arising from shameful conduct.  
+Vituperation: Bitter and abusive language; criticism that is very harsh and insulting.  
+Adulation: Excessive admiration or praise.  
+Flummox ：to perplex greatly or confuse someone so much that they do not know what to do  
+ 
