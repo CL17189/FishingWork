@@ -222,4 +222,16 @@ Opprobrium: Harsh criticism or censure; public disgrace arising from shameful co
 Vituperation: Bitter and abusive language; criticism that is very harsh and insulting.  
 Adulation: Excessive admiration or praise.  
 Flummox ：to perplex greatly or confuse someone so much that they do not know what to do  
+
+### 73-74  
+Monolithic: (of an organization or system) large, powerful, and intractably indivisible and uniform.  
+Dismissal: the act of ordering or allowing someone to leave; rejection of a proposal or idea.  
+Dispel: make (a doubt, feeling, or belief) disappear.  
+Contingent: subject to chance; dependent on certain conditions or circumstances; a group of people united by some common feature, forming part of a larger group.  
+Circumstantial: pointing indirectly toward someone’s guilt but not conclusively proving it; incidental; dependent on circumstances.  
+Bemoan: express discontent or sorrow over (something).  
+Sagacious: having or showing keen mental discernment and good judgment; shrewd.  
+Plodding: slow-moving and unexciting; lacking inspiration or energy.  
+Sobering: making you feel serious and think carefully; making you realize that something is important and that you should think about it seriously.  
+Esoteric: intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.  
  
