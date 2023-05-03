@@ -234,4 +234,12 @@ Sagacious: having or showing keen mental discernment and good judgment; shrewd.
 Plodding: slow-moving and unexciting; lacking inspiration or energy.  
 Sobering: making you feel serious and think carefully; making you realize that something is important and that you should think about it seriously.  
 Esoteric: intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.  
+
+### 75-78
+Cliquish: (adjective) tending to form exclusive groups; inclined to exclude others1  
+Genealogy: (noun) a line of descent traced continuously from an ancestor2  
+Provenance: (noun) the place of origin or earliest known history of something3  
+Quackery: (noun) the promotion of fraudulent or ignorant medical practices.  
+Nepotism: (noun) the practice among those with power or influence of favoring relatives or riends, especially by giving them jobs.  
+Indecision: (noun) the inability to make a decision quickly.  
  
